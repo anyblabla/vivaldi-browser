@@ -23,7 +23,7 @@ echo "Raffraichissement dépôts"
 apt update
 #
 echo "Installation paquets requis"
-apt install apt-transport-https wget
+apt install apt-transport-https wget -y
 #
 echo "Importation clé publique (/usr/share/keyrings/vivaldi-browser.gpg)"
 wget -qO- https://repo.vivaldi.com/archive/linux_signing_key.pub | gpg --dearmor | dd of=/usr/share/keyrings/vivaldi-browser.gpg
@@ -35,6 +35,6 @@ echo "Raffraichissement dépôts"
 apt update
 #
 echo "Installation Vivaldi"
-apt install vivaldi-stable
+apt install vivaldi-stable -y
 #
 echo "Source : https://help.vivaldi.com/fr/desktop-fr/install-update-fr/configuration-manuelle-des-depots-vivaldi-linux/"
