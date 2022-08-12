@@ -13,3 +13,6 @@ sudo ./vivaldi-browser.sh
 # Related video/Vidéo ayant un rapport
 
 https://youtu.be/ZufpbN9OiLo
+
+# Source
+https://help.vivaldi.com/fr/desktop-fr/install-update-fr/configuration-manuelle-des-depots-vivaldi-linux/
