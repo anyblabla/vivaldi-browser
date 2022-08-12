@@ -32,4 +32,6 @@ echo "Raffraichissement dépôts"
 apt update
 #
 echo "Installation Vivaldi"
-apt install vivaldi
+apt install vivaldi-stable
+#
+echo "Source : https://help.vivaldi.com/fr/desktop-fr/install-update-fr/configuration-manuelle-des-depots-vivaldi-linux/"
