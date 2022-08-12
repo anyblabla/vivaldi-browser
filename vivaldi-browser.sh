@@ -19,6 +19,9 @@
 echo "Effacement écran..."
 clear
 #
+echo "Raffraichissement dépôts"
+apt update
+#
 echo "Installation paquets requis"
 apt install apt-transport-https wget
 #
