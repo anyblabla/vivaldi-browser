@@ -6,17 +6,17 @@ Installation automatisée du navigateur Vivaldi à partir du dépôt tiers de ce
 Script valable pour Debian 11,x, Ubuntu 22.04.x, Mint 21.x...
 
 # Installation
-chmod +x vivaldi-browser.sh
+- chmod +x vivaldi-browser.sh
 
-sudo ./vivaldi-browser.sh
+- sudo ./vivaldi-browser.sh
 
 # Demonstration/Démonstration
 
-https://youtu.be/DW3C1oH_bns
+- https://youtu.be/DW3C1oH_bns
 
 # Related video/Vidéo ayant un rapport
 
-https://youtu.be/ZufpbN9OiLo
+- https://youtu.be/ZufpbN9OiLo
 
 # Source
-https://help.vivaldi.com/fr/desktop-fr/install-update-fr/configuration-manuelle-des-depots-vivaldi-linux/
+- https://help.vivaldi.com/fr/desktop-fr/install-update-fr/configuration-manuelle-des-depots-vivaldi-linux/
