@@ -1,12 +1,12 @@
 # 🌐 `vivaldi-browser`
 
-## Script d'Installation Automatisée du Navigateur Vivaldi
+## Script d'installation automatisée du navigateur Vivaldi
 
 Ce script en Bash automatise l'installation du navigateur **Vivaldi** en configurant correctement son dépôt tiers, garantissant ainsi une installation propre et des mises à jour régulières.
 
 -----
 
-### 🇫🇷 Description du Projet
+### 🇫🇷 **Description du projet**
 
 L'installation de Vivaldi via un dépôt tiers nécessite généralement plusieurs commandes (importation de clé GPG, ajout du dépôt, installation). Ce script rassemble toutes ces étapes pour une installation en une seule commande, simplifiant grandement le processus pour l'utilisateur.
 
@@ -16,7 +16,7 @@ Votre script est **valable** et testé pour :
   * Ubuntu 22.04.x
   * Linux Mint 21.x (et les dérivés basés sur ces versions)
 
-### 🇬🇧 Project Description
+### 🇬🇧 **Project Description**
 
 This Bash script automates the installation of the **Vivaldi** browser by properly configuring its third-party repository, ensuring a clean installation and regular updates.
 
@@ -30,7 +30,7 @@ Your script is **valid** and tested for:
 
 -----
 
-### 🛠️ Installation et Utilisation / Installation and Usage
+### 🛠️ **Installation et utilisation / Installation and Usage**
 
 Suivez ces étapes pour télécharger et exécuter le script :
 
@@ -53,11 +53,11 @@ Suivez ces étapes pour télécharger et exécuter le script :
     sudo ./vivaldi-browser.sh
     ```
 
-    Le script gérera l'importation de la clé, la configuration du dépôt et l'installation de Vivaldi.
+Le script gérera l'importation de la clé, la configuration du dépôt et l'installation de Vivaldi.
 
 -----
 
-### 🎥 Démonstrations et Vidéos Connexes
+### 🎥 **Démonstrations et vidéos connexes**
 
 Consultez les vidéos ci-dessous pour une démonstration du script et un contexte détaillé sur l'installation propre de Vivaldi.
 
@@ -68,13 +68,14 @@ Consultez les vidéos ci-dessous pour une démonstration du script et un context
 
 -----
 
-### 📚 Source Officielle
+### 📚 **Source officielle**
 
 Ce script s'appuie sur la documentation officielle de Vivaldi pour la configuration manuelle des dépôts sous Linux :
 
   * [Configuration manuelle des dépôts Vivaldi Linux](https://help.vivaldi.com/fr/desktop-fr/install-update-fr/configuration-manuelle-des-depots-vivaldi-linux/)
 
-### 📝 Licence
+-----
 
-Ce projet est sous licence **[À compléter - Ex: MIT, GPL, etc.]**.
-http://googleusercontent.com/youtube_content/1 http://googleusercontent.com/youtube_content/2
+### 📝 **Licence**
+
+Ce projet est sous licence GNU GPL (v2.0).
