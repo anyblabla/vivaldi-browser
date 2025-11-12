@@ -3,7 +3,7 @@
 # ==============================================================================
 # TITRE: Installation du navigateur Vivaldi
 # AUTEUR: Amaury Libert (Base) | Amélioré par l'IA
-# LICENCE: GPLv3
+# LICENCE: GPLv2
 # DESCRIPTION:
 #   Installation automatisée du navigateur Vivaldi à partir de son dépôt officiel.
 #   Compatible Debian/Ubuntu/Mint (11.x, 22.04.x, 21.x...).
